@@ -1,0 +1,2 @@
+# HealhCareAdvisor
+E-Health Care Advisor is a computer based Healthcare Information System. This system will help the users to identify certain disease level by answering certain questions asked by the system. Based on the diagnose received the user will be getting some suggestion of medicines that are available at the local chemist without prescription with an advice to visit the doctor. The system once ready should be able to train itself with the feedback given to it (Artificial Intelligence).
